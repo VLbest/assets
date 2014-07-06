@@ -1,0 +1,44 @@
+body{
+    margin: 0px;
+    padding: 0px;
+}
+
+.container{
+    background-repeat: no-repeat;
+    background-image: url(img/s_bg.png);
+}
+
+.info{
+    height: 10%;
+    width: 100%;
+    margin-bottom: 2%; 
+    border-bottom-left-radius: 15%;
+    border-bottom-right-radius: 15%;
+    background-image: url(img/header.png);
+}
+
+.game_field{
+    margin: auto;
+    max-height: 82%;
+    height: auto;
+    width: 98%;
+    border: 2px solid grey;
+    border-radius: 5px;
+}
+
+.game_table{
+    max-height: 80%;
+    background-color: grey;
+}
+
+.line{
+    
+}
+.cell{
+    border-radius:2px;
+    margin: 2px;
+    background-color: #e0e5e6;
+}
+
+
+
